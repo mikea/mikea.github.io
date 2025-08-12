@@ -139,9 +139,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "a3f05e53da83ea11",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d306acb3a201ad28",
+  "active": "80cf9873ac6331c1",
   "lastOpenFiles": [
     "README.md",
     "index.md"
