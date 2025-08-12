@@ -15,6 +15,9 @@ My interests are in programming languages, their design and implementation, safe
 - [tractor](https://github.com/mikea/tractor) - tiny actor system in go
 - [StochasticProcess.jl](https://github.com/mikea/StochasticProcesses.jl) - Julia package for computing stochastic integrals
 - [mathematica-specialrelativity](https://github.com/mikea/mathematica-specialrelativity) - Mathematica package to work with 4-vectors
+- [iflam](https://github.com/mikea/iflam) - fractal image generator
+- [bayes](https://github.com/mikea/bayes) - bayesian network exercises for coursera PGM course
+- [appengine-mapreduce](https://github.com/mikea/appengine-mapreduce) - just refuses to die
 # Notebooks
 
 - [Timbales Notebook](https://github.com/mikea/timbales)
