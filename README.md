@@ -1,6 +1,7 @@
 USA, Software Engineer
+https://github.com/mikea
 
-My interests are in programming languages, their design and implementation, safe and secure code, formal methods.
+My professional interests lie in programming languages, their design and implementation, safe and secure code, formal methods.
 # Personal Projects
 
 - 199 ⭐️[gdrive-webdav](https://github.com/mikea/gdrive-webdav) - WebDAV bridge for Google Drive
