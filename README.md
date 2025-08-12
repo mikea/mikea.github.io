@@ -1,5 +1,5 @@
 USA, Software Engineer
-https://github.com/mikea
+[https://github.com/mikea](https://github.com/mikea)
 
 My professional interests lie in programming languages, their design and implementation, safe and secure code, formal methods.
 # Personal Projects
