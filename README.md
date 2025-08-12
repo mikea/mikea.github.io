@@ -4,7 +4,7 @@ USA, Software Engineer
 My professional interests lie in programming languages, their design and implementation, safe and secure code, formal methods.
 # Personal Projects
 
-- 💾 ⭐️[gdrive-webdav](https://github.com/mikea/gdrive-webdav) - WebDAV bridge for Google Drive; 199 ⭐️
+- 💾 [gdrive-webdav](https://github.com/mikea/gdrive-webdav) - WebDAV bridge for Google Drive; 199 ⭐️
 - 📚 [niko](https://github.com/mikea/niko) - stack oriented concatenative array language
 - 🪭[quiet-server](https://github.com/mikea/quiet-server) - ipmi fan control for home lab
 - ♠️ [bridgitte](https://github.com/mikea/bridgitte) - contract bridge double dummy solver
