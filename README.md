@@ -18,7 +18,8 @@ My professional interests lie in programming languages, their design and impleme
 - [mathematica-specialrelativity](https://github.com/mikea/mathematica-specialrelativity) - Mathematica package to work with 4-vectors
 - [iflam](https://github.com/mikea/iflam) - fractal image generator
 - [bayes](https://github.com/mikea/bayes) - bayesian network exercises for coursera PGM course
-- [appengine-mapreduce](https://github.com/mikea/appengine-mapreduce) - just refuses to die
-# Notebooks
+- [appengine-mapreduce](https://github.com/mikea/appengine-mapreduce) - just refuses to perish
+
+# Music Notebooks
 
 - [Timbales Notebook](https://github.com/mikea/timbales)
