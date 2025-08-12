@@ -9,6 +9,7 @@ My interests are in programming languages, their design and implementation, safe
 - [bridgitte](https://github.com/mikea/bridgitte) - contract bridge double dummy solver in rust
 - [clave](https://github.com/mikea/clave) - midi click track generator
 - [gen-compile-commands](https://github.com/mikea/gen-compile-commands) - simple compile-commands.json generator
+- [ropes.pages.dev](https://ropes.pages.dev) - rope art Monte Carlo optimizer
 - [ts-types](https://github.com/mikea/ts-types) - typescript types manipulation library
 - [ztd](https://github.com/mikea/ztd) - experiment in data oriented programming in Zig
 - [tractor](https://github.com/mikea/tractor) - tiny actor system in go
