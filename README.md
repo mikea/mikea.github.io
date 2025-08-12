@@ -12,10 +12,8 @@ My interests are in programming languages, their design and implementation, safe
 - [ts-types](https://github.com/mikea/ts-types) - typescript types manipulation library
 - [ztd](https://github.com/mikea/ztd) - experiment in data oriented programming in Zig
 - [tractor](https://github.com/mikea/tractor) - tiny actor system in go
-- https://github.com/mikea/StochasticProcesses.jl
+- [StochasticProcess.jl](https://github.com/mikea/StochasticProcesses.jl) - Julia package for computing stochastic integrals
 - [mathematica-specialrelativity](https://github.com/mikea/mathematica-specialrelativity) - Mathematica package to work with 4-vectors
-
 # Notebooks
 
 - [Timbales Notebook](https://github.com/mikea/timbales)
-- 
