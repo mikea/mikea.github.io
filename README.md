@@ -7,7 +7,7 @@ My professional interests lie in programming languages, their design and impleme
 - 199 ⭐️[gdrive-webdav](https://github.com/mikea/gdrive-webdav) - WebDAV bridge for Google Drive
 - [niko](https://github.com/mikea/niko) - stack oriented concatenative array language
 - [quiet-server](https://github.com/mikea/quiet-server) - ipmi fan control for home lab
-- [bridgitte](https://github.com/mikea/bridgitte) - contract bridge double dummy solver in rust
+- [bridgitte](https://github.com/mikea/bridgitte) - contract bridge double dummy solver
 - [clave](https://github.com/mikea/clave) - midi click track generator
 - [gen-compile-commands](https://github.com/mikea/gen-compile-commands) - simple compile-commands.json generator
 - [ropes.pages.dev](https://ropes.pages.dev) - rope art Monte Carlo optimizer
