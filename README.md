@@ -2,6 +2,7 @@ USA, Software Engineer
 [https://github.com/mikea](https://github.com/mikea)
 
 My professional interests lie in programming languages, their design and implementation, safe and secure code, formal methods.
+
 # Personal Projects
 
 - 💾 [gdrive-webdav](https://github.com/mikea/gdrive-webdav) - WebDAV bridge for Google Drive; 199 ⭐️
@@ -25,3 +26,11 @@ My professional interests lie in programming languages, their design and impleme
 - 🥁[timbales](https://github.com/mikea/timbales) - timbales notes, studies, charts and transcriptions
 - ⛵️[nord-ost](https://github.com/mikea/nord-ost) - several transcriptions from «Норд Ост» musical 
 - 👂[transcriptions](https://github.com/mikea/transcriptions) -  random transcriptions 
+
+# Unpublished Work
+
+Some projects were never published for various reasons. Consider these to be conversation starter and vaporware.
+
+- copy-and-patch js jit; compiler, runtime and patches written in Rust; ran out of steam when I realized how big js language is. If you have a small language that needs jit, talk to me.
+- derivatives trading bot, java akka on top of ibkr. IBKR actors are probably worth open sourcing.
+
