@@ -23,7 +23,8 @@ My professional interests lie in programming languages, their design and impleme
 
 # Music Notebooks
 
-- 🥁[timbales](https://github.com/mikea/timbales) - timbales notes, studies, charts and transcriptions
+- 🥁[timbales](https://github.com/mikea/timbales) - timbales notebooks: studies, charts and transcriptions
+- 🥁[drums](https://github.com/mikea/drums) - drum kit notebooks
 - ⛵️[nord-ost](https://github.com/mikea/nord-ost) - several transcriptions from «Норд Ост» musical 
 - 👂[transcriptions](https://github.com/mikea/transcriptions) -  random transcriptions 
 
