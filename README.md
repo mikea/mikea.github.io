@@ -22,6 +22,7 @@ My professional interests lie in programming languages, their design and impleme
 - ♻️[appengine-mapreduce](https://github.com/mikea/appengine-mapreduce) - still refuses to perish
 
 # Music Notebooks
+I can talk about music forever. Ping me if you’re looking for a beginner timbalero or a latin drummer in Bay Area.
 
 - 🥁[timbales](https://github.com/mikea/timbales) - timbales notebooks: studies, charts and transcriptions
 - 🥁[drums](https://github.com/mikea/drums) - drum kit notebooks
