@@ -24,8 +24,8 @@ My professional interests lie in programming languages, their design and impleme
 # Music Notebooks
 I can talk about music forever. Ping me if you’re looking for a beginner timbalero or a latin drummer in Bay Area.
 
-- 🥁[timbales](https://github.com/mikea/timbales) - timbales notebooks: studies, charts and transcriptions
-- 🥁[drums](https://github.com/mikea/drums) - drum kit notebooks
+- 🥁[timbales](https://mikea.github.io/timbales/) - timbales notebooks: studies, charts and transcriptions
+- 🥁[drums](https://mikea.github.io/drums/) - drum kit notebooks
 - ⛵️[nord-ost](https://github.com/mikea/nord-ost) - several transcriptions from «Норд Ост» musical 
 - 👂[transcriptions](https://github.com/mikea/transcriptions) -  random transcriptions 
 
