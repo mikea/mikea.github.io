@@ -1,4 +1,4 @@
-Mike Aizatsky
+Software Engineer
 USA California
 
 mike@aizatsky.com
@@ -10,19 +10,23 @@ mike@aizatsky.com
 ## [Cloudflare](https://www.cloudflare.com/) 2022-
 
 **Principal Software Engineer**
+
 Cloudflare Workers Runtime
 
 ## [Bolt Inc](https://www.bolt.com/) 2018- 2022
 
 **Software Engineering Manager**
+
 Building, growing and leading the Checkout team (from 0 to 35 engineers) responsible for the development of the flagship Bolt product: checkout UI and supporting backend infrastructure. Team management, planning, engineering designs, design reviews, career growth, performance management, hiring.
 
 **Principal Engineer**
+
 One of the leading personal contributors across the full codebase: typescript migration, redux migration, introducing graphql across the stack, logging and analytics, tensorflow-based risk ML pipeline, on-call dashboards. Designer/leader of experiments system, multi-armed bandit system with applications, data warehousing, and many more.
 
 ## Satori  2017-2018
 
 **Staff Software Engineer**
+
 TL of streaming online video processing framework with applications to traffic management. Architecture, implementation, coordinating ML, infrastructure.
 
 [Reactive stream-based framework](https://github.com/mikea/satori-video-sdk-cpp), C++14.
