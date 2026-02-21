@@ -75,7 +75,7 @@ During the period I am a frequent speaker at various conferences/meetings (see P
 
 **Project, product manager and chief architect of IntelliJ IDEA Java IDE**
 
-([http://www.jetbrains.com/idea](http://www.jetbrains.com/idea)) enterprise team. Responsible for requirements definition, planning, supervising, architecting and participating in development of IntelliJ IDEA 7.0 enterprise features: Spring, Hibernate support, J2EE Facets, etc. Played a major role in system architecture (re)definition, major core framework extension, refactoring and optimization. Spent significant time in low-level multi-threading architecture refinement. High-performance DSM (Dependency Structure Matrix) architecture and implementation.
+[IntelliJ IDEA](http://www.jetbrains.com/idea) enterprise team. Responsible for requirements definition, planning, supervising, architecting and participating in development of IntelliJ IDEA 7.0 enterprise features: Spring, Hibernate support, J2EE Facets, etc. Played a major role in system architecture (re)definition, major core framework extension, refactoring and optimization. Spent significant time in low-level multi-threading architecture refinement. High-performance DSM (Dependency Structure Matrix) architecture and implementation.
 
 ### IDEA 6.0
 

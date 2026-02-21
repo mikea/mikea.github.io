@@ -23,9 +23,9 @@ My professional interests are in programming languages, their design and impleme
 - 🔎[bayes](https://github.com/mikea/bayes) - bayesian network exercises for coursera PGM course
 - ♻️[appengine-mapreduce](https://github.com/mikea/appengine-mapreduce) - still refuses to perish
 - 📐[3D designs](https://www.thingiverse.com/skippa/designs) - for 3D printer
-- [flac-cue-split](https://github.com/mikea/flac-cue-split) - split media files according to cue sheets
-- [crabbox](https://github.com/mikea/crabbox) - raspberry pi hardware jukebox 
-- [ghidra-scripts](https://github.com/mikea/ghidra-scripts) - automation for ghidra
+- ✂️[flac-cue-split](https://github.com/mikea/flac-cue-split) - split media files according to cue sheets
+- 📻[crabbox](https://github.com/mikea/crabbox) - raspberry pi hardware jukebox 
+- 🐍[ghidra-scripts](https://github.com/mikea/ghidra-scripts) - automation for ghidra
 
 # Music Notebooks
 I can talk about music forever. Ping me if you’re looking for a beginner timbalero or a latin drummer in Bay Area.
