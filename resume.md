@@ -3,7 +3,9 @@ Software Engineer
 USA California
 
 [mike@aizatsky.com](mailto:mike@aizatsky.com)
+
 [https://github.com/mikea/](https://github.com/mikea/)
+
 [http://www.linkedin.com/in/mikeaizatsky](http://www.linkedin.com/in/mikeaizatsky) 
 
 
@@ -15,11 +17,9 @@ USA California
 
 ### Cloudflare Workers Runtime
 
-Low level C++: security and performance. 
-Rust/C++ integration. 
-Security Fuzzing, Build systems. 
+Low level C++: security and performance. Rust/C++ integration. Security Fuzzing, Build systems. 
 
-https://github.com/capnproto/capnproto
+[https://github.com/capnproto/capnproto](https://github.com/capnproto/capnproto)
 https://github.com/cloudflare/workerd
 https://github.com/cloudflare/workerd-cxx
 
@@ -240,39 +240,22 @@ December, 2005, JavaPolis, Antwerp, Belgium
 
 # Honors/Awards
 
-Master's Degree with Honors in Mathematics
-
-2000, Kharkiv State University, Kharkiv, Ukraine
+- Master's Degree with Honors in Mathematics (2000, Kharkiv State University, Kharkiv, Ukraine)
 
 ## Professional & Scholar Competitions
 
-IFCP 2007, team lead, 4th team result (team ryba)
-
-Google Code Jam 2004, Round 2 (mm_aa)
-
-  
-
-Ukraine National Students Mathematics Contest 1998, 1st degree diploma
-
-Ukraine National School Programming Contest, 1994, 2nd degree diploma
-
-Ukraine National School Programming Contest, 1993, 2nd degree diploma
-
-Kharkiv City School Mathematics Contest, 1993, 2nd degree diploma
+- IFCP 2007, team lead, 4th team result (team ryba)
+- Google Code Jam 2004, Round 2 (mm_aa)
+- Ukraine National Students Mathematics Contest 1998, 1st degree 
+- Ukraine National School Programming Contest, 1994, 2nd degree
+- Ukraine National School Programming Contest, 1993, 2nd degree
+- Kharkiv City School Mathematics Contest, 1993, 2nd degree
 
 # Education
 
-Master’s Degree with Honors in Mathematics
-
-Master’s Degree with Honors in Mathematics Education
-
-1995 - 2000, Kharkiv State University, Kharkiv, Ukraine
-
-  
-
-Certified SCRUM Master
-
-November, 2004, Copenhagen, Denmark
+- Master’s Degree with Honors in Mathematics (1995 - 2000, Kharkiv State University, Kharkiv, Ukraine)
+- Master’s Degree with Honors in Mathematics Education (1995 - 2000, Kharkiv State University, Kharkiv, Ukraine)
+- Certified SCRUM Master (November, 2004, Copenhagen, Denmark)
 
 # Spare Time Projects
 
