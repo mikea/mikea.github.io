@@ -1,6 +1,4 @@
-Software Engineer
-
-USA California
+**Software Engineer**, California, USA
 
 [mike@aizatsky.com](mailto:mike@aizatsky.com)
 
@@ -66,23 +64,25 @@ TL of streaming online video processing framework with applications to traffic m
 
 ## [JetBrains](http://www.jetbrains.com) 2001-2007
 
-Software Engineering Manager, Lead Developer, 2005-2007
+### Software Engineering Manager, Lead Developer, 2005-2007
 
 Playing key roles in IntelliJ IDEA Java IDE development (http://www.jetbrains.com/idea), planning and product definition.
 
-  
-
 During the period I am a frequent speaker at various conferences/meetings (see Public Talks section below).
 
-IDEA 7.0
+### IDEA 7.0
 
-Project, product manager and chief architect of IntelliJ IDEA Java IDE ([http://www.jetbrains.com/idea](http://www.jetbrains.com/idea)) enterprise team. Responsible for requirements definition, planning, supervising, architecting and participating in development of IntelliJ IDEA 7.0 enterprise features: Spring, Hibernate support, J2EE Facets, etc. Played a major role in system architecture (re)definition, major core framework extension, refactoring and optimization. Spent significant time in low-level multi-threading architecture refinement. High-performance DSM (Dependency Structure Matrix) architecture and implementation.
+**Project, product manager and chief architect of IntelliJ IDEA Java IDE**
 
-IDEA 6.0
+([http://www.jetbrains.com/idea](http://www.jetbrains.com/idea)) enterprise team. Responsible for requirements definition, planning, supervising, architecting and participating in development of IntelliJ IDEA 7.0 enterprise features: Spring, Hibernate support, J2EE Facets, etc. Played a major role in system architecture (re)definition, major core framework extension, refactoring and optimization. Spent significant time in low-level multi-threading architecture refinement. High-performance DSM (Dependency Structure Matrix) architecture and implementation.
 
-Project, product manager and chief architect of IntelliJ IDEA Java IDE ([http://www.jetbrains.com/idea](http://www.jetbrains.com/idea)) enterprise team. Responsible for requirements definition, planning, supervising, architecting and participating in development of IntelliJ IDEA 6.0 enterprise features: WYSIWYG HTML/JSP/JSF editor, J2EE 5, Struts, JSF support.
+### IDEA 6.0
 
-Engineering Manager, 2003-2005  
+**Project, product manager and chief architect of IntelliJ IDEA Java IDE**
+
+([http://www.jetbrains.com/idea](http://www.jetbrains.com/idea)) enterprise team. Responsible for requirements definition, planning, supervising, architecting and participating in development of IntelliJ IDEA 6.0 enterprise features: WYSIWYG HTML/JSP/JSF editor, J2EE 5, Struts, JSF support.
+
+### Engineering Manager, 2003-2005  
 
 Project management and chief architect of JetBrains Fabrique project. JetBrains Fabrique was a RAD tool, frameworks and components for fast and easy web applications development. The project was developed by the distributed team of 20 members. While being a chief architect of the product and its frameworks, was responsible for requirements definition, planning and supervising all project activities: 
 
@@ -95,7 +95,7 @@ Introduced various agile practices and processes to the team.
 
 The project was canceled by the lack of funding for the initial product launch.
 
-Senior Developer,  Russia 2001-2003
+### Senior Developer,  Russia 2001-2003
 
 Development of award-winning IntelliJ IDEA Java IDE ([www.jetbrains.com/idea)](http://www.jetbrains.com/idea\)) versions 3.0 & 4.0. Co-architect of all major IDEA subsystems being written in the course of 3.0-4.0 creation. Among other numerous development activities designed and developed:
 
@@ -103,12 +103,13 @@ Development of award-winning IntelliJ IDEA Java IDE ([www.jetbrains.com/idea)](h
 - Local VCS: full-featured high-performance embedded VCS.
 - XML: XML parsing with intelligent re-parse, AST, DTD & Schema-based validation, code completion, high-level write interface.
 - Ant support: XML-based DSL with validation, code completion and refactoring.
-- VCS support: version control systems integration framework, intelligent local vcs-based checkin, file status computation, on-the-fly changes highlighting.
+- VCS support: version control systems integration framework, Local VCS intelligent local vcs-based checkin, file status computation, on-the-fly changes highlighting.
 - Unit testing framework: development of framework, targeted on unit and functional testing of complex IDEA systems such as code analysis, refactoring etc.
 
 ## Validio Software Ukraine 1998-2001
 
-Senior Developer
+**Senior Developer**
+
 Multi-tier enterprise applications development in Java with almost every technology available at the time: Swing for rich clients; JSP, servlets, Struts for web applications; EJB, ORMs (Toplink, Cocobase), JDBC, RMI for server side. Architected many frameworks for easing enterprise applications development. Among them are: Infobus-based Swing framework for better UI modularization, component-based event-driven framework for web applications, XML import/export framework, automatic software update system.
 
 ## Spec-Vuz-Automatica Ukraine 1996-1998
@@ -121,122 +122,32 @@ Real-time DSP development as a part of complex military radio signal location, r
 
 # Publications & Talks
 
-- “Announcing OSS-Fuzz: Continuous Fuzzing for Open Source Software”
-[https://testing.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html](https://testing.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html)
-
-December 2016, cross-posted to google security & open-source blogs.
-
-  
-
-- “Guided in-process fuzzing of Chrome components”
-
-[https://security.googleblog.com/2016/08/guided-in-process-fuzzing-of-chrome.html](https://security.googleblog.com/2016/08/guided-in-process-fuzzing-of-chrome.html)
-
-August 2016
-
-  
-
-- AppEngine MapReduce
-
-[http://www.youtube.com/watch?v=EIxelKcyCC0&feature=player_embedded](http://www.youtube.com/watch?v=EIxelKcyCC0&feature=player_embedded)
-
-May 2011, Google I/O, San Francisco, USA
-
-  
-
-- Large Scale Data Analysis and Processing on App Engine
-
-November 2010, GDD Moscow ‘10, Moscow, Russia
-
-  
-
-- Batch Data Processing
-
-May 2010, Google I/O, San Francisco, USA
-
-  
-
-Choosing a Synchronization Model for Multithreaded Applications;
-
-Micro Design Patterns
-
-June 2008, The ServerSide Java Symposium, Prague, Czech Republic
-
-  
-
-IntelliJ and Java EE 5 development;
-
-Next-Gen Continuous Integration with TeamCity;
-
-JavaScript Puzzlers;
-
-Taming Code Dependencies
-
-December 2007, Javapolis, Antwerp, Belgium
-
-  
-
-JavaScript Puzzlers;
-
-Analyzing Complex Project Structure with Dependency Matrix BOF
-
-September, 2007, JavaZone, Oslo, Norway
-
-  
-
-IDE Shootout
-
-July, 2007, Cologne JUG, Cologne, Germany
-
-  
-
-JavaScript Puzzlers
-
-March, 2007, Ajax World Conference, New York, USA
-
-  
-
-Productive Web 2.0 Development;
-
-GWT As Simple As 1-2-3 Lab;
-
-Next Generation Of Continuous Integration Tools
-
-December, 2006, Javapolis, Antwerp, Belgium
-
-  
-
-IntelliJ IDEA - Web Developer's Swiss Army Knife
-
-September, 2006, The Ajax Experience, Boston, USA
-
-  
-
-Extending Type Systems With Annotations;
-
-Enterprise Development With IDEA 6.0
-
-September, 2006, Cologne JUG, Cologne, Germany
-
-  
-
-Ajax With Pleasure!
-
-May, 2006, Google, San Francisco, USA
-
-  
-
-Ajax With Pleasure!
-
-May, 2006, The Ajax Experience, San Francisco, USA
-
-  
-
-Static Code Analysis: Automated Inspections
-
-Web & Enterprise Development with IntelliJ IDEA
-
-December, 2005, JavaPolis, Antwerp, Belgium
+- [Announcing OSS-Fuzz: Continuous Fuzzing for Open Source Software](https://testing.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html) December 2016, cross-posted to google security & open-source blogs.
+- [Guided in-process fuzzing of Chrome components](https://security.googleblog.com/2016/08/guided-in-process-fuzzing-of-chrome.html) August 2016
+- [AppEngine MapReduce](http://www.youtube.com/watch?v=EIxelKcyCC0&feature=player_embedded) May 2011, Google I/O, San Francisco, USA
+- Large Scale Data Analysis and Processing on App Engine; November 2010, GDD Moscow ‘10, Moscow, Russia
+- Batch Data Processing; May 2010, Google I/O, San Francisco, USA
+- Choosing a Synchronization Model for Multithreaded Applications; June 2008, The ServerSide Java Symposium, Prague, Czech Republic
+- Micro Design Patterns; June 2008, The ServerSide Java Symposium, Prague, Czech Republic
+- IntelliJ and Java EE 5 development;
+- Next-Gen Continuous Integration with TeamCity;
+- JavaScript Puzzlers;
+- Taming Code Dependencies; December 2007, Javapolis, Antwerp, Belgium
+- JavaScript Puzzlers;
+- Analyzing Complex Project Structure with Dependency Matrix
+- BOF September, 2007, JavaZone, Oslo, Norway
+- IDE Shootou; July, 2007, Cologne JUG, Cologne, Germany
+- JavaScript Puzzlers; March, 2007, Ajax World Conference, New York, USA
+- Productive Web 2.0 Development;
+- GWT As Simple As 1-2-3 Lab;
+- Next Generation Of Continuous Integration Tools; December, 2006, Javapolis, Antwerp, Belgium
+- IntelliJ IDEA - Web Developer's Swiss Army Knife; September, 2006, The Ajax Experience, Boston, USA
+- Extending Type Systems With Annotations;
+- Enterprise Development With IDEA 6.0; September, 2006, Cologne JUG, Cologne, Germany
+- Ajax With Pleasure! May, 2006, Google, San Francisco, USA
+- Ajax With Pleasure! May, 2006, The Ajax Experience, San Francisco, USA
+- Static Code Analysis: Automated Inspections;
+- Web & Enterprise Development with IntelliJ IDEA; December, 2005, JavaPolis, Antwerp, Belgium
 
 # Honors/Awards
 
