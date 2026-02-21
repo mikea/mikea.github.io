@@ -171,16 +171,7 @@ Real-time DSP development as a part of complex military radio signal location, r
 
 # Spare Time Projects
 
-I spend quite a few time learning new technologies. Among my (recent) favorites are: 
-
-- Continuous-time stochastic processes in julia ([https://github.com/mikea/StochasticProcesses.jl](https://github.com/mikea/StochasticProcesses.jl))
-- Webdav bridge for Google Drive ([https://github.com/mikea/gdrive-webdav](https://github.com/mikea/gdrive-webdav))
-- Fully persistent data structures in java ([https://github.com/mikea/concrete](https://github.com/mikea/concrete))
-- Today-Is pebble app ([https://github.com/mikea/pebble-today-is](https://github.com/mikea/pebble-today-is))
-- HackerNewsOverload - an alternative interface to hacker news [(http://hnoverload.aizatsky.com/)](https://docs.google.com/document)
-- 3D designs ([https://www.thingiverse.com/skippa/designs](https://www.thingiverse.com/skippa/designs))
-
-  
+Check my [home page](https://mikea.github.io/) for up-to-date list of side projects.
 
 # Skills
 
