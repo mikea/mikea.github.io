@@ -1,7 +1,9 @@
 USA, Software Engineer
 [https://github.com/mikea](https://github.com/mikea)
 
-My professional interests lie in programming languages, their design and implementation, safe and secure code, formal methods.
+My professional interests are in programming languages, their design and implementation, safe and secure code, formal methods.
+
+[Resume](/resume)
 
 # Personal Projects
 

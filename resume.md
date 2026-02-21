@@ -6,6 +6,7 @@
 
 [http://www.linkedin.com/in/mikeaizatsky](http://www.linkedin.com/in/mikeaizatsky) 
 
+Programming languages, their design and implementation, safe and secure code, formal methods.
 
 # Employment
 
