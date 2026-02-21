@@ -22,7 +22,7 @@ My professional interests are in programming languages, their design and impleme
 - 🔥[iflam](https://github.com/mikea/iflam) - fractal image generator
 - 🔎[bayes](https://github.com/mikea/bayes) - bayesian network exercises for coursera PGM course
 - ♻️[appengine-mapreduce](https://github.com/mikea/appengine-mapreduce) - still refuses to perish
-- 📐[3D designs](https://www.thingiverse.com/skippa/designs))
+- 📐[3D designs](https://www.thingiverse.com/skippa/designs) - for 3D printer
 
 # Music Notebooks
 I can talk about music forever. Ping me if you’re looking for a beginner timbalero or a latin drummer in Bay Area.
