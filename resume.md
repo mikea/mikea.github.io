@@ -1,9 +1,10 @@
 Software Engineer
 USA California
 
-mike@aizatsky.com
-[http://www.linkedin.com/in/mikeaizatsky](http://www.linkedin.com/in/mikeaizatsky) 
+[mike@aizatsky.com](mailto:mike@aizatsky.com)
 [https://github.com/mikea/](https://github.com/mikea/)
+[http://www.linkedin.com/in/mikeaizatsky](http://www.linkedin.com/in/mikeaizatsky) 
+
 
 # Employment
 
@@ -11,7 +12,15 @@ mike@aizatsky.com
 
 **Principal Software Engineer**
 
-Cloudflare Workers Runtime
+### Cloudflare Workers Runtime
+
+Low level C++: security and performance. 
+Rust/C++ integration. 
+Security Fuzzing, Build systems. 
+
+https://github.com/capnproto/capnproto
+https://github.com/cloudflare/workerd
+https://github.com/cloudflare/workerd-cxx
 
 ## [Bolt Inc](https://www.bolt.com/) 2018- 2022
 
