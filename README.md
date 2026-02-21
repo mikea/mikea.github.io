@@ -18,11 +18,14 @@ My professional interests are in programming languages, their design and impleme
 - 🗼[ztd](https://github.com/mikea/ztd) - experiments in data oriented programming in Zig
 - 🚜[tractor](https://github.com/mikea/tractor) - tiny actor system in go
 - 🎲 [StochasticProcess.jl](https://github.com/mikea/StochasticProcesses.jl) - Julia package for computing stochastic integrals
-- 🚀[mathematica-specialrelativity](https://github.com/mikea/mathematica-specialrelativity) - Mathematica package to work with 4-vectors
+- 🚀[mathematica-specialrelativity](https://github.com/mikea/mathematica-specialrelativity) - Mathematica package to work with special relativity 4-vectors
 - 🔥[iflam](https://github.com/mikea/iflam) - fractal image generator
 - 🔎[bayes](https://github.com/mikea/bayes) - bayesian network exercises for coursera PGM course
 - ♻️[appengine-mapreduce](https://github.com/mikea/appengine-mapreduce) - still refuses to perish
 - 📐[3D designs](https://www.thingiverse.com/skippa/designs) - for 3D printer
+- [flac-cue-split](https://github.com/mikea/flac-cue-split) - split media files according to cue sheets
+- [crabbox](https://github.com/mikea/crabbox) - raspberry pi hardware jukebox 
+-[ghidra-scripts](https://github.com/mikea/ghidra-scripts) - automation for ghidra
 
 # Music Notebooks
 I can talk about music forever. Ping me if you’re looking for a beginner timbalero or a latin drummer in Bay Area.
