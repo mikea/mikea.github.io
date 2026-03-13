@@ -18,9 +18,10 @@ Programming languages, their design and implementation, safe and secure code, fo
 
 Low level C++: security and performance. Rust/C++ integration. Security Fuzzing, Build systems. 
 
-[https://github.com/capnproto/capnproto](https://github.com/capnproto/capnproto)
-https://github.com/cloudflare/workerd
-https://github.com/cloudflare/workerd-cxx
+OSS work:
+- [capnproto](https://github.com/capnproto/capnproto/commits?author=mikea)
+- [workerd](https://github.com/cloudflare/workerd/commits?author=mikea)
+- [workerd-cxx](https://github.com/cloudflare/workerd-cxx/commits?author=mikea)
 
 ## [Bolt Inc](https://www.bolt.com/) 2018- 2022
 
