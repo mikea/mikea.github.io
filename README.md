@@ -7,6 +7,7 @@ My professional interests are in programming languages, their design and impleme
 
 # Personal Projects
 
+- 🎻[piccolo](https://github.com/mikea/piccolo) minimalistic extensible cloud first agent for Cloudflare
 - 💾 [gdrive-webdav](https://github.com/mikea/gdrive-webdav) - WebDAV bridge for Google Drive; 199 ⭐️
 - 📚 [niko](https://github.com/mikea/niko) - stack oriented concatenative array language
 - 🪭[quiet-server](https://github.com/mikea/quiet-server) - ipmi fan control for home lab
