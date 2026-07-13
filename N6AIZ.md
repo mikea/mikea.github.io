@@ -1,9 +1,9 @@
-I am a digital mode ham (FT8/FT4) and operate from CM87 square. 
+I am active periodically as N6AIZ using digital modes (mostly FT8). I have operated from multiple locations in  CM87. 
 
 ![N6AIZ-20260713](/N6AIZ-20260713-1618.png)
 
 My rig is:
-- kx3
+- Elecraft KX3
 - Rpi 4
 - digirig
 - Ni4L end-fed antenna (currently horizontal on the roof)
