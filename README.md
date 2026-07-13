@@ -38,7 +38,7 @@ I can talk about music forever. Ping me if you’re looking for a beginner timba
 
 # Ham
 
-I am occasionally on the air using [[N6AIZ]]. 
+I am occasionally on the air using [N6AIZ](/N6AIZ)
 
 # Unpublished Work
 
