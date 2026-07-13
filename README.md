@@ -36,6 +36,10 @@ I can talk about music forever. Ping me if you’re looking for a beginner timba
 - ⛵️[nord-ost](https://github.com/mikea/nord-ost) - several transcriptions from «Норд Ост» musical 
 - 👂[transcriptions](https://github.com/mikea/transcriptions) -  random transcriptions 
 
+# Ham
+
+I am occasionally on the air using [[N6AIZ]]. 
+
 # Unpublished Work
 
 Some projects were never published for various reasons. Consider these to be conversation starter and vaporware.

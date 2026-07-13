@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "22f61a9b4205f350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,11 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc13c358f8f8f6d8",
+  "active": "22f61a9b4205f350",
   "lastOpenFiles": [
+    "N6AIZ.md",
+    "N6AIZ-20260713-1618.png",
+    "README.md",
+    "sizes.md",
+    "robots.txt",
+    "/robots.txt",
     "/resume.md",
     "resume.md",
-    "README.md",
     "OPERATOR_MANUAL_M17_M18_COMMERCIAL_1302517-01_REV05_WEB_FILE.pdf",
     "2025-08-15.md",
     "index.md"
