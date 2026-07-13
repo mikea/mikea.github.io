@@ -1,6 +1,6 @@
 I am a digital mode ham (FT8/FT4) and operate from CM87 square. 
 
-![[N6AIZ-20260713-1618.png]]
+![N6AIZ-20260713](/N6AIZ-20260713-1618.png)
 
 My rig is:
 - kx3

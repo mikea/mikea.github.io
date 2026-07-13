@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "N6AIZ.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "N6AIZ"
             }
           }
         ],
@@ -196,9 +196,9 @@
   },
   "active": "22f61a9b4205f350",
   "lastOpenFiles": [
+    "README.md",
     "N6AIZ.md",
     "N6AIZ-20260713-1618.png",
-    "README.md",
     "sizes.md",
     "robots.txt",
     "/robots.txt",
