@@ -13,106 +13,106 @@ My rig is:
 As of Sep 2026 my DXCC list contains 102 entries: 
 
 ```
-Equatorial Guinea
-Fiji Islands
-Cyprus
-Samoa
-Kenya
-Malawi
-Croatia
-West Malaysia
-Taiwan
-China
-Chile
-Cuba
-Portugal
-Madeira Islands
-Azores
-Uruguay
-Angola
-Federal Republic Of Germany
-Philippines
-Bosnia-Herzegovina
-Spain
-Canary Islands
-Ireland
-Estonia
-Belarus
-France
-New Caledonia
-England
-Isle Of Man
-Northern Ireland
-Jersey
-Scotland
-Wales
-Hungary
-Switzerland
-Ecuador
-Haiti
-Dominican Republic
-Colombia
-Republic Of Korea
-Panama
-Honduras
-Thailand
-Italy
-Grenada
-Saint Vincent
-Japan
-United States Of America
-Hawaii
-American Samoa
 Alaska
-Us Virgin Islands
-Puerto Rico
-Norway
-Argentina
-Luxembourg
-Lithuania
-Bulgaria
-Austria
-Finland
-Czech Republic
-Slovak Republic
-Belgium
-Denmark
-Aruba
-Netherlands
-Brazil
-Franz Josef Land
-Slovenia
-Sweden
-Poland
-Greece
-Tuvalu
-San Marino
-Iceland
-Costa Rica
-Cameroon
-Central African Republic
-Republic Of The Congo
-Chad
-European Russia
-Asiatic Russia
-Kazakhstan
-Ukraine
+American Samoa
+Angola
 Antigua & Barbuda
-Belize
-Namibia
-Canada
+Argentina
+Aruba
+Asiatic Russia
 Australia
-Montserrat
-Turks & Caicos Islands
+Austria
+Azores
+Belarus
+Belgium
+Belize
+Bosnia-Herzegovina
+Brazil
+Bulgaria
+Cameroon
+Canada
+Canary Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Dominican Republic
+Ecuador
+England
+Equatorial Guinea
+Estonia
+European Russia
+Federal Republic Of Germany
+Fiji Islands
+Finland
+France
+Franz Josef Land
+Greece
+Grenada
+Haiti
+Hawaii
+Honduras
 Hong Kong
+Hungary
+Iceland
 India
-Mexico
 Indonesia
+Ireland
+Isle Of Man
+Italy
+Japan
+Jersey
+Kazakhstan
+Kenya
 Latvia
-Romania
-Serbia
-Venezuela
-Republic Of Kosovo
+Lithuania
+Luxembourg
+Madeira Islands
+Malawi
+Mexico
+Montserrat
+Namibia
+Netherlands
+New Caledonia
 New Zealand
+Northern Ireland
+Norway
+Panama
+Philippines
+Poland
+Portugal
+Puerto Rico
+Republic Of Korea
+Republic Of Kosovo
 Republic Of South Africa
+Republic Of The Congo
+Romania
+Saint Vincent
+Samoa
+San Marino
+Scotland
+Serbia
+Slovak Republic
+Slovenia
+Spain
+Sweden
+Switzerland
+Taiwan
+Thailand
+Turks & Caicos Islands
+Tuvalu
+Ukraine
+United States Of America
+Uruguay
+Us Virgin Islands
+Venezuela
+Wales
+West Malaysia
 ```
