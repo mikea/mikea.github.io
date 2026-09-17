@@ -1,4 +1,4 @@
-I am active periodically as N6AIZ using digital modes (mostly FT8). I have operated from multiple locations in  CM87. 
+I am active periodically as N6AIZ using digital modes (mostly FT8). I have operated from multiple locations in  CM87 (renter's life). 
 
 ![N6AIZ Grid Map](/N6AIZ-20260908-1921.png)
 
