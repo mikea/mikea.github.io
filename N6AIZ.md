@@ -1,6 +1,6 @@
 I am active periodically as N6AIZ using digital modes (mostly FT8). I have operated from multiple locations in  CM87 (renter's life). 
 
-![N6AIZ Grid Map](/N6AIZ-20260908-1921.png)
+![N6AIZ Grid Map](/N6AIZ-20261002-1931.png)
 
 My rig is:
 - Elecraft KX3, 10W. Awesome transciever. 
